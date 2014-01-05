@@ -1,0 +1,7 @@
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\bin\Debug\NZBusDocConversion.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\bin\Debug\NZBusDocConversion.exe
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\bin\Debug\NZBusDocConversion.pdb
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\bin\Debug\itextsharp.xml
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\obj\Debug\NZBusDocConversion.exe
+c:\users\matt\documents\visual studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\obj\Debug\NZBusDocConversion.pdb
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\NZBusDocConversion\NZBusDocConversion\obj\Debug\NZBusDocConversion.csprojResolveAssemblyReference.cache
